@@ -21,5 +21,6 @@
 		</form>
 		<a href="userJoin.jsp">회원가입</a>
 	</section>
+	<img src="../premiumSportTest/porfileImage/test.jpeg" width="200px" height="200px">
 </body>
 </html>
