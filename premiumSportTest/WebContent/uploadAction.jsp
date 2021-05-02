@@ -10,7 +10,7 @@
 	request.setCharacterEncoding("UTF-8");
 	String userId = (String)session.getAttribute("userName");
 	
-	String directory = "/users/yoonmobul/premiumSportTest/profileImage";
+	String directory = "Macintosh HD/users/yoonmobul/premiumSportTest/profileImage";
 	int maxSize = 1024 * 1024 * 100;
 	String encoding = "UTF-8";
 	
